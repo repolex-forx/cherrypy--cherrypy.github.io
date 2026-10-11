@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/cherrypy/cherrypy.github.io/commit/188d9e3db530f3897be3a379e386aa1d2498c5cf",
       "git:hexsha": "188d9e3db530f3897be3a379e386aa1d2498c5cf",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
