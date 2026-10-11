@@ -1,0 +1,28 @@
+{
+  "manifest_version": "1.0",
+  "org": "cherrypy",
+  "repo": "cherrypy.github.io",
+  "versions": [
+    {
+      "commit": "188d9e3db530f3897be3a379e386aa1d2498c5cf",
+      "parsed_at": "2026-10-11T08:03:44.693427+00:00",
+      "filetree": "filetree/188d9e3db530f3897be3a379e386aa1d2498c5cf.nq.gz",
+      "blobs": [
+        "blob/4877557841d03f7e22a0cc24a42aef3ab4738140.nq.gz",
+        "blob/d228e0b26768bdf817843dde8e60fb3f3ede567e.nq.gz",
+        "blob/1258eef7b213953d7cc1b695c081110a5e813fe8.nq.gz",
+        "blob/d93d6f22c324aeb64fd15947e506f5fd7cad73e0.nq.gz",
+        "blob/306d2a42392e86a7f7313edcab602876409a241c.nq.gz",
+        "blob/40482d5a02d90ef1ed44c73835e0beefdb157ff9.nq.gz",
+        "blob/919a56efbcd4d1330c1f50bd9ddcce0b61b16059.nq.gz",
+        "blob/27c305fa529fb29b2ca70593eb5d6a754cadf8fa.nq.gz",
+        "blob/fd233c010f486405deec894896543eb93e2648f0.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
